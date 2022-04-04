@@ -13,6 +13,6 @@ This is hello world exmaple for docker & Kubernetes through multiple recources
 
 4. Create & Access Openshift Instance (https://www.redhat.com/en/technologies/cloud-computing/openshift/try-it#)
 
- Sample Cluster https://console-openshift-console.apps.sandbox.x8i5.p1.openshiftapps.com/
+5. Sample Openshift Cluster-Require Access- https://console-openshift-console.apps.sandbox.x8i5.p1.openshiftapps.com/
 
  
