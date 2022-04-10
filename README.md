@@ -5,7 +5,7 @@ This is hello world exmaple for docker & Kubernetes through multiple recources
 
 #### Steps
 
-1. Sample Java hello world Docker file (https://github.com/shaik-byte/Sample_Java_Docker-file/blob/main/Dockerfile)
+1. Sample Java hello world Docker file (https://github.com/devfile-samples/devfile-sample-java-springboot-basic/blob/main/docker/Dockerfile)
 
 2. Sample Java hello world Pod file (https://github.com/josedom24/kubernetes/blob/master/ejemplos/busybox/busybox.yaml)
 
